@@ -1,0 +1,7 @@
+logs/
+generated_files/
+reports/
+target/
+*.class
+.settings
+.classpath
